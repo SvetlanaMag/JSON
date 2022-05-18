@@ -467,6 +467,8 @@
 							"});\r",
 							"\r",
 							"//***Написать цикл который выведет в консоль по порядку элементы списка из параметра person.\r",
+							"let person = {\"u_age\": 44, \"u_name\": [\"Max\", 2000, 44], \"u_salary_5_years\": 8400.0};\r",
+							"console.log(Object.keys(person), Object.values(person))\r",
 							"\r",
 							"\r",
 							""
